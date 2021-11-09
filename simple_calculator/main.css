@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  background-color: #f2f2f2;
+}
+
+.calc {
+  margin: 25%;
+  width: 20%;
+}
